@@ -1,8 +1,9 @@
 # Hi there! I'm Zad.👋
+(I use arch btw)
 
-I'm a developer building fast, low-level stuff, clean web applications, and random side projects. Big fan of systems programming, neat code, and good coffee.
+I'm a small kitten who happens to be a very skilled software architect.
 
-When I'm not writing code, I'm usually gaming or watching anime.
+When I'm not writing code, I'm usually gaming or watching anime (or maybe gooning).
 
 ---
 
@@ -13,8 +14,8 @@ When I'm not writing code, I'm usually gaming or watching anime.
   <br>
 
   - ⚡ **Focus:** Backend systems, CLI tools, and web development
-  - 🛠️ **Currently tinkering with:** Rust performance, custom tools, and game dev basics
-  - 🎮 **Interests:** PC Gaming, Anime, Tech & Hardware
+  - 🛠️ **Currently tinkering with:** Rust performance, custom tools, and some boring shits.
+  - 🎮 **Interests:** Playing games, watching anime, reading manga/mamhwa, and living life peacefully like a good kitten.
 </details>
 
 <details>
@@ -22,7 +23,7 @@ When I'm not writing code, I'm usually gaming or watching anime.
   <br>
 
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naclnaoh6236@gmail.com)
 </details>
 
 ---
@@ -43,7 +44,7 @@ When I'm not writing code, I'm usually gaming or watching anime.
 #### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
