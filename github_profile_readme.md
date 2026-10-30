@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! I'm Zad.👋
 
 I'm a developer building fast, low-level stuff, clean web applications, and random side projects. Big fan of systems programming, neat code, and good coffee.
 
