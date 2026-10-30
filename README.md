@@ -1,4 +1,4 @@
-# Hi there! I'm Zad.👋
+# MEOWWWWWW! I'm Zad.👋
 (I use arch btw)
 
 I'm a small kitten who happens to be a very skilled software architect.
